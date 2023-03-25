@@ -1,0 +1,21 @@
+1 255 0 0 255 Broadleaved, mixed & yew woodland
+2 0 102 0 255 Coniferous woodland
+3 115 38 0 255 Arable & horticulture
+4 0 255 0 255 Improve grassland
+5 127 229 127 255 Neutral grassland
+6 112 168 0 255 Calcareous grassland
+7 153 129 0 255 Acid grassland
+8 255 255 0 255 Fen, marsh and swamp
+9 128 26 128 255 Dwarf shrub and heath
+10 230 140 166 255 Heather grassland
+11 0 128 115 255 Bog
+12 210 210 255 255 Inland rock
+13 0 0 128 255 Saltwater
+14 0 0 255 255 Freshwater
+15 220 191 0 255 Supra-littoral rock
+16 204 179 1 255 Supra-littoral sediment
+17 255 255 128 255 Littoral rock
+18 255 255 142 255 Littoral sediment
+19 128 128 255 255 Saltmarsh
+20 0 0 0 255 Urban
+21 128 128 128 255 Suburban
